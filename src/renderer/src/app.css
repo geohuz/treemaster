@@ -1,0 +1,34 @@
+/* purgecss start ignore */
+@tailwind base;
+@tailwind components;
+/* purgecss end ignore */
+
+@tailwind utilities;
+
+.wrapper {
+  flex-grow: 1;
+  /* height: 100%; */
+  height: 90vh;
+}
+
+.react-flow__handle {
+  border-radius: 0;
+  background-color: '#2d0a5824';
+}
+
+.react-flow__node-CNode.selectable.selected, .react-flow__node-CNode.selectable:focus, .react-flow__node-CNode.selectable:focus-visible, .react-flow__node-input.selectable.selected, .react-flow__node-input.selectable:focus, .react-flow__node-input.selectable:focus-visible, .react-flow__node-output.selectable.selected, .react-flow__node-output.selectable:focus, .react-flow__node-output.selectable:focus-visible, .react-flow__node-group.selectable.selected, .react-flow__node-group.selectable:focus, .react-flow__node-group.selectable:focus-visible {
+    box-shadow: 0 0 0 0.5px #1a192b;
+    border-radius: 2px;
+}
+
+.react-flow__edge.selected .react-flow__edge-path, .react-flow__edge:focus .react-flow__edge-path, .react-flow__edge:focus-visible .react-flow__edge-path {
+    stroke-width: 2;
+}
+
+.rotate90 {
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}

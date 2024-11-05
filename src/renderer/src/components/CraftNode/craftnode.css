@@ -1,0 +1,65 @@
+/* purgecss start ignore */
+@tailwind base;
+@tailwind components;
+/* purgecss end ignore */
+
+@tailwind utilities;
+
+/* 确保编辑模式的正确style */
+[contenteditable]:focus {
+  outline: 0px solid transparent;
+  cursor: text;
+}
+
+.component-selected {
+  @apply relative;
+}
+
+/* .droparea {
+  position: relative;
+}
+
+.droparea::after {
+  content: attr(datatooltip);
+  position: absolute;
+  left: 0.4em;
+  top: -0.8em;
+  font-size: 0.7em;
+  font-weight: bold;
+  background: rgb(238 238 238); 
+} */
+
+
+/* 显示hover边框 */
+.component-selected::after {
+  content: ' ';
+  @apply border-primary border border-dashed w-full h-full absolute left-0 top-0 pointer-events-none block;
+}
+
+/* 进入聚焦编辑模式去除边框(否则滚动时会带着边框) */
+.component-selected:focus-within::after {
+  content: none;
+}
+
+.reactEasyCrop_CropArea {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.transition {
+  transition: 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+#carbonads * {
+  margin: initial;
+  padding: initial;
+}
+
+#carbonads {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', Helvetica, Arial,
+    sans-serif;
+
+  padding: 10px 0.5rem;
+  border-top: 1px solid rgb(0 0 0 / 6%);
+}

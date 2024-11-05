@@ -1,0 +1,38 @@
+
+  // const Menu = (menuItem) => 
+  //   if (menuItem?.children?.length > 0) {
+  //     <Collapse unmountOnExit>
+  //       <List disablePadding>
+  //         renderMenu1(menuItem.children)
+  //       </List>
+  //     </Collapse>
+  //   }
+/*
+      <ListItem
+        onClick={menuItem?.children?.length>0 ? subMenuSwitch : null }
+        key={menuItem.key}
+        button
+        component={Link}
+        to={menuItem.link}
+      >
+        <ListItemIcon> {menuItem.icon} </ListItemIcon>
+        <ListItemText primary={menuItem.title} />
+        {menuItem.open ? <ExpandLess /> : <ExpandMore />}
+      </ListItem>
+*/
+/*
+  menuRoot.map((menuItem, index)=> {
+    return (
+      <React.Fragment key={index}>
+        <ListItem
+          key={menuItem.key}
+          button
+          component={Link}
+          to={item.link}
+        >
+          <ListItemIcon> {item.icon} </ListItemIcon>
+          <ListItemText primary={item.title} />
+        </ListItem>
+      </React.Fragment>
+    )
+  })*/

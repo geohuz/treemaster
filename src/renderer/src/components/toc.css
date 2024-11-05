@@ -1,0 +1,9 @@
+.react-pdf__Outline {
+  margin-top: 3ch;
+  margin-left: 3ch;
+  padding: 5px;
+}
+
+.react-pdf__Outline ul {
+  padding-inline-start: 2ch;
+}

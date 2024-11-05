@@ -1,0 +1,2237 @@
+/* roboto-cyrillic-ext-300-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: url(./roboto-cyrillic-ext-300-normal-435e4b7f.woff2) format('woff2'), url(./roboto-cyrillic-ext-300-normal-5e06c977.woff) format('woff');
+  unicode-range: U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;
+}
+
+/* roboto-cyrillic-300-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: url(./roboto-cyrillic-300-normal-47aa3bfa.woff2) format('woff2'), url(./roboto-cyrillic-300-normal-c07952fe.woff) format('woff');
+  unicode-range: U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;
+}
+
+/* roboto-greek-ext-300-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: url(data:font/woff2;base64,d09GMgABAAAAAAXIABIAAAAACfAAAAVrAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGiYbIBw2BmAANAhYCYM8EQwKg3yDWwsQABIUATYCJAMcBCAFgnwHIAyCOhuKCFFUkNIAfhzkZNGn0qdP43KKULZY+sdzG0Q8m/mz8ICIX02oaFIVOdFc1ZzS76IBcWPjIIKlGKNV/3O6DmGQY/0cOocGnZS5fphLIQxybKVfXZEOY7haU7u7F7IfFUso/CdW3X0AsQAwPhW2Tv1UAStAFdXxNaLOVQhbV3MjxjWbYEg6T29vAH0LBI0IAFAOwUQQBA0IASEEECBAgjJIz94DRxICQAF43hlrbeqi1KrNWDS7iJq5s7MLu6lo2twSDwB8MeX1ukpLCgOMw0YLkOr9kP4yOQFmBnaVs6/PDelD1x3k7zLJIKcPa9jICQDV3nCwsdHToL5UBh0xSWGjAuGt7HnRX/rR3QgADckz3lSjnWSwElt5isGm6u0xoExmKmW0I8S8LOHMARJ6DYKqPWXUNmKGQxmzAmXNh4hpE0hYCsN8GxMgAKTK8A9lX+RjAvHOUAnfr08nEpIi0nsFmSqhpSANhYSeIg96Ha/FaUMP+9Fv9bA92s1XUHVeYvNR68e4DIERvCcwkgW6mthy89qYnIRKxVT+MQ4VOiRhB1Fc/hJGqqyu121wk7FSxdBV2XohSOOhBgkPxcWXl5x5TxG3T/vwjcHKmw1L2pcl3vZ41zJm3GMz008LrPS52KOW6UEeOjUQ3gFd+9Dr6Fpa2diNrwySMeOd17yJTSpKwp8qt1krwiDMfCCFhtogiMn7hVJ+PftGjxH87Wopy8DHbWSbp6H7O2bIo9beHti3u0IWr/zSfjiFrp/9ZA3YT1oqtgvJuPKpWAVBw4fmeUQBsACIAH6gEzCTw5D5cwxogqYrKHf4V8Qipj8eWRJduCSvwFc4MVoghZElK9/6KLD5C11Wvfvpto/fHjVyzTuBzW9prH47uOVdfcmEIGNnfJDXRw194w2p/xiG85iePRHDiq/uNf/H4IJPT+kyaaNM0tODH9n09OYmcuaS166o9f4ntzaXs0M5taWe9sjiqPV9gxef/alh6KD+Y+MXXv66YbBv2dd2r+u0suwDLfv832/WNFkyoY/0rzV8zdDG1EX1BgsjUxs0ILPG+85obrzkhmLxeKKdE4o5vBQxk/mvDL+EQ693tCaVb2rVOo8jEAORgas01GXXCDUW8y07gffcEKkJn6XFnMh7TZu5qlp1B5XJegAGdUFUqM5xgrGbWeIEkmNrvFX5N4CSVWo0bYZ03rFecqwIBIRr8o4yUJuNlyo6RpMKNRFYQkAofjkgQMhvKtBM3QQQQKuVWDf4wowp0Y6/+yr6AHjsp3hjgNdl+Kf/2P+/7q/kmwP40QAQsIoyIfC3+cfO9PJXQhj8LH0rM10pv8AoYFnuYEo5mTWYrsUOyjGOgQAQAQ1tNiYC+MihI8oPTMbaLlRgsl0jwvxJfW9SwW5Ql7UJE9rLz40w0iP0kFZqkdny5cozl01zmtJsNNv0keaQimS791NihsaJbiwW5YYrU3OYz2abI9ts82WbqTHDpU2XNleazUCFcnpjrnmKTAOONs82R36q5A7YeK0Fbehwo5Nt8skbKfPGuUq1p4mzBV/XmGlKTTNDnmyNSZstVxOK5JshW4k5ss3RhIH66aGXwUbopdHzf6gpOgB4BWZqFzqhpEMSV0JaUtywRA+4M9y+aYNqCXxJ7pTicb2aV11uuVNbnju0bbHq86cOaG1Va2YObt80+rSXCXiYuxZMbF8rZ+k9fMO6t6xT3sPfrkntSrFc4GwumNMtdGptbv/UMdxIxEo6/IGvd52EzHGHBsa57kooHcxzu1Tik1NAK6CJca47hNK0g26QB9VDKpqH8wQK0WrSeBqCUlbJHwHVm3PdKUY76EXyEl3OSm4TO5EGt2Z9mQMAAA==) format('woff2'), url(data:font/woff;base64,d09GRgABAAAAAATkAA4AAAAABWQAAQABAAAAAAAAAAAAAAAAAAAAAAAAAABHREVGAAABRAAAAB8AAAAmAEYABkdQT1MAAAFkAAAAIAAAACBEcExrR1NVQgAAAYQAAAA2AAAANpMNggRPUy8yAAABvAAAAE0AAABgku/g4WNtYXAAAAIMAAAAKQAAADQAER+gZ2FzcAAAAjgAAAAMAAAADAAIABNnbHlmAAACRAAAAREAAAEUGjc/4GhlYWQAAANYAAAANgAAADb8WdJpaGhlYQAAA5AAAAAfAAAAJAqpBZBobXR4AAADsAAAABwAAAAcE07/w2xvY2EAAAPMAAAAEAAAABAA0AE8bWF4cAAAA9wAAAAgAAAAIAI3A1xuYW1lAAAD/AAAANEAAAF8Gwg553Bvc3QAAATQAAAAEwAAACD/bQBkeNpjYGRgYuBjgAAxII8NiEGQCcjnAWEgmwEABhIATQAAAQAAAAoAEgAUAAFERkxUAAwAAAAAAAQAAAAA//8AAAABAAAACgAkACYABERGTFQAHmN5cmwAImdyZWsAImxhdG4AIgAAAAAACAAAAAAAAAAA//8AAAAAeNpjYGbJZ9RhYGVgYJ3FaszAwCgPoZkvMqQxMTAwADEUODCgAnd/f3cGB3lfeV82hn8MDGnss5gYFBgY54PkWKxYNzAoACEzAMRwCjwAAAB42mNgYGACYmYgFgGSjGCahUEBSLMAIZAv7/v/P4R8sBMszwAAVmAGzQAAAAABAAIACAAC//8AD3jaDcwBRANRGAfw//e99zppau/qGohum5kC7dpAAlQKRgC1pABCoFIjSkoFIQHIQsAABKEpGbUhAkAgZ4pAue8aAH4/GKwDKm/qUOhBLxIYAHzf+soSWVI+FclX+WiKGyXpyB0lPliJEEeRqf/WjBNVeevP8nZU4coxVwBGNQ51aBrdaQSgIdaZNGxx0s2OajflJDmTZusl3aDgWh2eitzG8nhOTGWiM7XbeW1+f720P/nkWVo12qDS5RMFN9fy/pAkh8bkTX6uJJI2jVMfGCt6h9dMCwb9AA0GnsqowBtOOblckZaP9u9nZZOXJhYW9QVNe9Kk+dW9uUL2sBzHchCHptC1OegZwIGRLPAPx7pVLQAAAAABAAAAAiMS7qbXil8PPPUAGQgAAAAAAMTwES4AAAAA1QFS4/og/dUJGghzAAAACQACAAAAAAAAeNpjYGRgYM/5x8PAwGn+S+GfK6cUUAQVsAMAbCsERwADjABkAAAAAAAAAAAB8gAABWoAfQK2AF8FsP6DAAAAKQApACkAKQBgAH4AigABAAAABwCPABYAWQAFAAEAAAAAAA4AAAIAAnIABgABeNpNjrkKwkAURY8r2lhbTmVn3ApBKxERQSxULAWXGIWQCYkL9n6Nn+GXeYshhMsdzrwdqHGhRKFcB/bguECTveMiDZ6OS7l4OccVWnwcVxX/Om6w5ccUS8ybhBsBV+4Y+nTpSYY5VgoI8TEsiDjhiSaEkmGddaXoh08qJzz1nvEUsRzlu2xYZtWqFD0IOZCwQz2kyloitB+PHgOGjHHXiPOz2rlZshQzoiO9kPA4EMsnZX39LAmBsiE3xXwidKfcYcmCKTNWbPS20W66fypGNRAAAAB42mNgZgCD/1kMKQxYAAAqHwHRAA==) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+
+/* roboto-greek-300-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: url(./roboto-greek-300-normal-455c2c1a.woff2) format('woff2'), url(./roboto-greek-300-normal-6bb1ef10.woff) format('woff');
+  unicode-range: U+0370-03FF;
+}
+
+/* roboto-vietnamese-300-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: url(./roboto-vietnamese-300-normal-51f3f418.woff2) format('woff2'), url(./roboto-vietnamese-300-normal-7747ef64.woff) format('woff');
+  unicode-range: U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;
+}
+
+/* roboto-latin-ext-300-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: url(./roboto-latin-ext-300-normal-b076e863.woff2) format('woff2'), url(./roboto-latin-ext-300-normal-35da7ccd.woff) format('woff');
+  unicode-range: U+0100-02AF,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;
+}
+
+/* roboto-latin-300-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: url(./roboto-latin-300-normal-f7591131.woff2) format('woff2'), url(./roboto-latin-300-normal-ddb5c61d.woff) format('woff');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}/* roboto-cyrillic-ext-400-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./roboto-cyrillic-ext-400-normal-b7ef2cd1.woff2) format('woff2'), url(./roboto-cyrillic-ext-400-normal-0a32035a.woff) format('woff');
+  unicode-range: U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;
+}
+
+/* roboto-cyrillic-400-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./roboto-cyrillic-400-normal-495d38d4.woff2) format('woff2'), url(./roboto-cyrillic-400-normal-adba67d2.woff) format('woff');
+  unicode-range: U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;
+}
+
+/* roboto-greek-ext-400-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(data:font/woff2;base64,d09GMgABAAAAAAXMABIAAAAACeAAAAVwAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGiYbIBw2BmAANAhUCYM8EQwKg2iDSgsQABIUATYCJAMcBCAFgnQHIAyCSRt8CAieB2WbnmbLuYAwwpK8+iIe4P3r89wHDZaakNWCmB8R66SEWr+ILhpijnTqf6QAyyF8GVAOAPOWtmNg6llFXANTaQXCgXMubThOj6JRPCJsEWW3o1/4wX411uruvta/9FF8Zz50qenu3hVxmf4QIi1dRSzhkcR0SqA1QoiwzI2uAUbffgtBpA0YCssEQRChiaaAgMpAFvDsmKQshIEEer1l/u1J0Sbi8P6OJsQc3VHd6N0nlHe1MAhFbvPNcXJVWKNNekPqCYVx/lj8nqMi5BY4Pd6hectSY5E2Lll8SMf/HJXfEKEOfCtEMjEFBEHtpSkbjBK4aB1MIEjT/t9z/+W3j8FgVyeNWdDn7wh7b19l7pQoyFW8FXcx+P9D4NE2ErMMk4kskmVMCiwyG5ZhhyC7qZ19JoMatwj00/I0GG/uexT/v7K+Ysx9JXVwiRoC1yHR9VGAy9QQcXVQbqOGmOvEACWZm5EnyicLnfULjlggc0ldeRXQEqImnlS9kL8XAZndegKyuixM77OP24/Mzw9QQ7Kfha4v9OEOadjJ0qBYxN896pRbZI6ly/PS82Bs9iiYPpuaWJZEw83lXbg5G5JRslr2VFWPDtfbPBryeqZk5eKg/CqRD2Oz8tcvgJMiFi4RC6PWb9fnkzx74cWAeELYJFCSObI1tnxBfqwo2lPppazn26eGKDWU3KLMvOioppPNX6y4euc5FBq4y6Emd99OYa6zfpnpUhjE4Y/qoWtWQ4tIHr845ZA6bDc+AOSaR/sb6c9Otrh6uj3cUdDVKESNWgCK/GzxKQiLFKJeTz+QgzZKTIUcA2Nz9h2ppBhtbSQxfsjAtk4xoD1oes5gXYPe8UWmx+HjwQeNPfi2Wv/952vDpV/80Njw3WfWXv5IL3662ucz8dd9se78QkPd6ihDH61ZfS/s/KK0fjE+sgih+YDL5pz1vnH249tjfOAcLqZOTdvY/3jL1Hy3vqvcu358ODj2/etmVHfcdW+1t2X6R08H6p3BTzz87uDo6/H/vD/2scffaEf/ThphsXX6jLtDvp7cx6bvFUbnpWbFBWgOekJEip6LgFz63wtE+H/fXrpM++P7m8wAgZk/NJnacWXJLOW1rWO16C5ouY7SRE5T8x0iJ7MpntZyQJtPS2tuKXZpKqNf728OLK1FiJj72rq99z4Ho7G9hTQm0sqlhiEBKlWXfTDq1zbQcaP1HosN1zo/TqWGAGGywdQJhaSfHo9wDdfhs78cJKBZ5glRluQQEG030P7t9IdL+03+rRhRIHjxxwF7IsRHYeWXv0f991G5d9GJAKUIBPIT/jUpF/wa9f/Ccm9YiMnjjap8MPxDeomeuKM1ffn/fWHktrCSBT3iY20i0fZ0BBSOAgtJiYMAUDBoOigYaTtuMB4PJjiY2lFfMDPaqZe2rfYTKVcYVUK+QIPiwY175iFi5Yq4Em50vIyNq4cbYFLL2Fyqwbe4aq5Kx+XgZMhZco180ZCv3b5iqtyXD9VCUsquRpcNT74CH3LW95hzWKkvV3KxoHLNhF5fxylXMNkCLk6rio/XJGRzZWquGi/JysTM3sUM+4wfckMBveM4zKV1U1VT4QMTqQI/IFSPuDBgopvEnkF6u7kQ4gJdWIvWjkeivDg/OWNxRqSXxIolJclBKluW+uwutDVlWXtxjIc9y9fPPiBAxIqR2jR/O1ZmRftILVjVU5bo4zjbmDxi6XLWfHj/+sMns5ZFfyP9jLWD9pU5CFi/MC+Fo8Vo/+XhjzuFH9jQ3a32p2/nQ0fiTr60oFFwFV18KrXSKp2m/+AsuvlQKqXRIVOncITG9B6cRRdfSqt0RP8hVHTzrZOuHdwJDHdwJwA=) format('woff2'), url(data:font/woff;base64,d09GRgABAAAAAATgAA4AAAAABVwAAQABAAAAAAAAAAAAAAAAAAAAAAAAAABHREVGAAABRAAAAB8AAAAmAEYABkdQT1MAAAFkAAAAIAAAACBEcExrR1NVQgAAAYQAAAA2AAAANpMNggRPUy8yAAABvAAAAE0AAABgk1Pg+GNtYXAAAAIMAAAAKQAAADQAER+gZ2FzcAAAAjgAAAAMAAAADAAIABNnbHlmAAACRAAAARQAAAEUnMv0r2hlYWQAAANYAAAANgAAADb8atJ6aGhlYQAAA5AAAAAfAAAAJAq6BadobXR4AAADsAAAABwAAAAcE+3/e2xvY2EAAAPMAAAAEAAAABAA0AE9bWF4cAAAA9wAAAAgAAAAIAI3AwluYW1lAAAD/AAAAM0AAAF0GlU5EHBvc3QAAATMAAAAEwAAACD/bQBkeNpjYGRgYuBjgAAxII8NiEGQCcjnAWEgmwEABhIATQAAAQAAAAoAEgAUAAFERkxUAAwAAAAAAAQAAAAA//8AAAABAAAACgAkACYABERGTFQAHmN5cmwAImdyZWsAImxhdG4AIgAAAAAACAAAAAAAAAAA//8AAAAAeNpjYGZpY5zAwMrAwDqL1ZiBgVEeQjNfZEhjYmBgAGIocGBABe7+/u4MDvK+8r5sDP8YGNLYZzExKDAwzgfJsVixbmBQAEJmAPBXCrcAAAB42mNgYGACYmYgFgGSjGCahUEBSLMAIZAv7/v/P4R8sBMszwAAVmAGzQAAAAABAAIACAAC//8ADwAFAGQAAAMoBbAAAwAGAAkADAAPAAAhIREhAxEBAREBAyEBNQEhAyj9PALENv7u/roBDOQCA/7+AQL9/QWw+qQFB/19Anf7EQJ4/V4CXogCXgAAAgB2/+wFCQXEABEAHwAAARQCBCMiJAInNTQSJDMyBBIVJxACIyICBxUUEjMyEjcFCZD++LCs/vaTApIBC6yvAQuQv9C7ttED07m6zAMCqdb+waipATnOadIBQqup/r/VAgEDARX+6/Zr+/7hAQ/9AAIAbwRwAskF1gAFAA0AAAETMxUDIwEzFRYXByY1AZF0xN9Z/t6oA1BJsgSUAUIV/sMBUlt7VTtfu////jL/7AVPBdYAJgAERgAABwAF/cMAAAABAAAAAiMS6JlwgF8PPPUAGQgAAAAAAMTwES4AAAAA1QFS9Pob/dUJMAhzAAAACQACAAAAAAAAeNpjYGRgYM/5x8PAwOn5S/qfF6cBUAQVsAMAb4UEbwADjABkAAAAAAAAAAAB+wAABYAAdgMgAG8Fxv4yAAAAKQApACkAKQBhAH4AigABAAAABwCPABYAVAAFAAEAAAAAAA4AAAIAAiQABgABeNpdjgNyAwAURF/tXqAcdVQbgzo2hrFtXSYHyemyMeabu8A2SdZYWd8BgjDOV9gnOM5XOSQ7ztfm+utz+QYXtMf5Jsd0x/khXnr8UKJMhyoZUqSpc849t9xJzjFQkqTIk1BlokiMa2Vf5CXnuKdXtWGVoCar0pSPc61OiaisLtOUFA3yRKjiH+7VyFCiOMS85o4HXviYMnhZuL9a+iBUSZl3biStoVxrUpbFNE2oKlElpWmejHoJitRIyG6wYuKHP+x45K+G+Ld9LnwzhgAAAHjaY2BmAIP/WQwpDFgAACofAdEA) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+
+/* roboto-greek-400-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./roboto-greek-400-normal-daf51ab5.woff2) format('woff2'), url(./roboto-greek-400-normal-076b9dc1.woff) format('woff');
+  unicode-range: U+0370-03FF;
+}
+
+/* roboto-vietnamese-400-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./roboto-vietnamese-400-normal-77b24796.woff2) format('woff2'), url(./roboto-vietnamese-400-normal-d2390f1a.woff) format('woff');
+  unicode-range: U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;
+}
+
+/* roboto-latin-ext-400-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./roboto-latin-ext-400-normal-3c23eb02.woff2) format('woff2'), url(./roboto-latin-ext-400-normal-c2b94086.woff) format('woff');
+  unicode-range: U+0100-02AF,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;
+}
+
+/* roboto-latin-400-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./roboto-latin-400-normal-f6734f81.woff2) format('woff2'), url(./roboto-latin-400-normal-a9fdbefa.woff) format('woff');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}/* roboto-cyrillic-ext-500-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url(./roboto-cyrillic-ext-500-normal-aeed0e51.woff2) format('woff2'), url(./roboto-cyrillic-ext-500-normal-57138788.woff) format('woff');
+  unicode-range: U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;
+}
+
+/* roboto-cyrillic-500-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url(./roboto-cyrillic-500-normal-3728fbdd.woff2) format('woff2'), url(./roboto-cyrillic-500-normal-4bc088e9.woff) format('woff');
+  unicode-range: U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;
+}
+
+/* roboto-greek-ext-500-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url(data:font/woff2;base64,d09GMgABAAAAAAXcABIAAAAACgQAAAWAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGiYbIBw2BmAANAhcCYM8EQwKg3CDUwsQABIUATYCJAMcBCAFgwAHIAyCUxujCACOlC5DNsHD//+2fp8bhJS6mMR5XowEcaqZN2A2Ro6RTES+6DzyOr4qW4h/b/eZ2YQqiFF9MYvJ1Zra3Q07UJHAOxPhwaq7T9LeXwlxfCpsnCqiKkuSQEZUWFndRCS169iOrLNRew/wX4FAwQkATEdgQiAQKIAdsCMAASSQjBsRKqpowA6ABhCPx4QyyELb7KS+HRvHSBvc2D+qvrGezRMMAEtp5umqdpH4DR30S/T5IFJ1lfoyAw14W8BgKsuKb3UxwVM5HmViCgbmJQoG4koAbZkuMTBQt5HCcaMi8GgYqIEQd308bv23Hz2AACCP5zibKzib79goxh5NulTpLo1beBpwT3XjVi4lMb4Ux9SFJKtebNoy3NrpJOoSt2km00yPk6i0kWzW0E0fIAAkvnJprWmZFOKMyP0ifkSG5kxa1a5OvxQ+wwgPh6To9kvFJ0We1y9Vn1Ek1cyiupb0iHGKcUrpulOMImOoZ53UMpt0Xqv/lEjAkNRn2JA0xCuDEc8zuz8SWeaX2lYWrfqUCBqMkU0sI7LH/e+Xuq98czWrpqW2Re4PeWQwJNO9XiMsH68h4XHlfUSvMtUp7fY9wzMrBvO4Kc8vLbuo+qGCvZ/IO4XpTvfK/WPIc0p6RDM8XvR+wZEWFEZ1Zljr9td41f6mPaRQcVZHPK9NQ35p9ZXXt4RDHq9M98sEn/SFBWzoX2b3TWaL48YpMZs9EESj71s43rBejk/9an3EI9N9S6Rx/P5EeOOXdjt8MvhZbtCaST+h7QW/Co0nQaBgQYnHcQFgBsAJWIGVwCCH9v530Jm0klejqehOcpos1+a7XNt3DY1YRttdI2KUucz+tz5KOOWTd5rEgXc/Pf3jtxsbDrxzvpm3Gtj/tu3UN8WuNhsta8DG640Nb4icp9Hl02p/O7o56WB464+2bZ9erYqO46JDjdZ+Envj3JOTb7tr0n3bBat5qe71C8L4yOuSbzk/yGv/ab/cK2667n7ENw0/PajfcNPd8T9KZi24KLrq1Wmfr+rIr5/sUnaWh6uL74w8mk4WWhGY0f+/BxRgKiX+nb5OfzNmT0xKSl4q7YmSlyyLyWI90fESknCkEvBMKsaqyI04SeyJaQrZ9THdtJotlnGZ8F7MTlod2ymJ0vle4dyYlmoM0CrcX4B2ux011A6R9sRJt5AJ+S3etzy/AbQUz8rCuUhbQGov5SyTvDRLEpip7kRpBrMSVo0IhJ0NArBbzRooJs0M+7pKevLPn7z/Q5drxe+WWRYAnv4pqQDgdVH33T8Z/79ubbdsAqwoAAgwj03ZwToa4ZxaUwTBlGRWT2OdR4op0I8y0H0MjuemUhCAmTOZThU9/3FOUFAKMSEACwNUhGYFOrGOCGbTGVFwsr1Q9RVqiOhkcdQ0wXbbbZ00eJa1otbbYaNhg4ZsZjCPQubOfoNiUQnPmP7EUhP6FJhrWByrqsss28Tct98m/Tbaqt86BdSJ6hW1WZRBpWds2Bbj8TsN2mJMj42apHuTYSibqAILpuazmOU1bVy8Y7rfaDM3W28ZgZm2dSugh5U6s8+QfgWSuNGgAGNmX9MT9Uo5OUCFUmuFVakX5q/gjwpRASA+wjrTkdKeL8knJpxKvoi5hHWF+1zLCjM9iVjyuU8sKciYnbScfZ9SFZyXPq0ztWR5gdddpfFML8xJne5kpr7a1X5Phzm4IJ9Z2sqW5c5i1kPrqpals4RtvRWLvP22s7e1g9m3dpcvmsMcvowUtz3BuXZxfmryOmKJTnO+5A99dmy/W2yKSQNqvJtj+2tWpzTdBdoHAQFdDYrSmXQnxSHVuyW2mrpoX43LSFVRSMpY6R8Bqa2bY11CZ9KLFNerY12BNB2FM5An+NY8sQkA) format('woff2'), url(data:font/woff;base64,d09GRgABAAAAAAToAA4AAAAABWgAAQABAAAAAAAAAAAAAAAAAAAAAAAAAABHREVGAAABRAAAAB8AAAAmAEYABkdQT1MAAAFkAAAAIAAAACBEcExrR1NVQgAAAYQAAAA2AAAANpMNggRPUy8yAAABvAAAAE0AAABgk7fhCmNtYXAAAAIMAAAAKQAAADQAER+gZ2FzcAAAAjgAAAAMAAAADAAIABNnbHlmAAACRAAAARAAAAESY95A8mhlYWQAAANUAAAANgAAADb8n9JyaGhlYQAAA4wAAAAfAAAAJArvBcBobXR4AAADrAAAABwAAAAcFAj/TWxvY2EAAAPIAAAAEAAAABAAzwE7bWF4cAAAA9gAAAAgAAAAIAI3Aw9uYW1lAAAD+AAAANkAAAGAG8c6DHBvc3QAAATUAAAAEwAAACD/bQBkeNpjYGRgYuBjgAAxII8NiEGQCcjnAWEgmwEABhIATQAAAQAAAAoAEgAUAAFERkxUAAwAAAAAAAQAAAAA//8AAAABAAAACgAkACYABERGTFQAHmN5cmwAImdyZWsAImxhdG4AIgAAAAAACAAAAAAAAAAA//8AAAAAeNpjYGaZwfiFgZWBgXUWqzEDA6M8hGa+yJDGxMDAAMRQ4MCACtz9/d0ZHOR95X3ZGP4xMKSxz2JiUGBgnA+SY7Fi3cCgAITMABp8Cy0AAAB42mNgYGACYmYgFgGSjGCahUEBSLMAIZAv7/v/P4R8sBMszwAAVmAGzQAAAAABAAIACAAC//8AD3jaDY8lWARRFEbvfTOPwd1tXepqQQvuUnCHCAmnk/GOu7tL/3D6h7s785btv5wDFEoBOC2dAA5swA4cwQVAJnOTcW6IbsjJ0IQyTiuGkh0ze2BL6HhGOMaQiCKd+OmhgthEan7dSK2YT/KbST4AgXLLHQ2mO+AKwQDoSXiFXEk0JqO7Usq7+whGopATwcvT3aB3N9HgNnY/PcluO7ETPbAUPTpQnB/oWSTLfQOzZOqYrY6OYuRe+hFGjw6z9SP6goRZbjOf2A/Ch/Wtgq8kx/TEauIEgB4GL06BBi9vH0Ftwtaqg4s8djjJJaZO8F0Y4cU2MbOgITo2e81iYYFWzlJrUw18NIAAVJwF+AfCKlcxAAEAAAACIxJVwNXKXw889QAZCAAAAAAAxPARLgAAAADVAVLs+iT91QlcCHMAAAAJAAIAAAAAAAB42mNgZGBgz/nHw8DAmf1L5Z8jZwxQBBWwAwB2LQS9AAOMAGQAAAAAAAAAAAH+AAAFhgBmAywAZwXM/hwAAAApACkAKQApAGAAfQCJAAEAAAAHAI8AFgBOAAUAAQAAAAAADgAAAgACMAAGAAF42mJgYOBgSGNgZmBk4QSy44AYwmZkkALyIGwmBj6GCiibGUmcBYnNyqDG0AZlswHF10DYQJ0hDMcAVc5DdkQBFATQu5S/gNiYxLbGUdvu3n1qEp16ZjnU0TXTV1NRNVRYsWQ5KJzqBBVNJYVzbR8WFPY1g8LDz9ZAMiWDaN849tNCKh3v0WG0cC1VNSMtmVVJ1PSm70UpdqCmoy0MLFi2atPuD5/Nf9fm/10Lg6Brx2IwEVjwphv9SLeUrKOvkm5TLbWStnCNLrpy7tCxG4+x8/Ld0hcoDzX0AAAAeNpjYGYAg/9ZDCkMWAAAKh8B0QA=) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+
+/* roboto-greek-500-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url(./roboto-greek-500-normal-713780d8.woff2) format('woff2'), url(./roboto-greek-500-normal-93181eb7.woff) format('woff');
+  unicode-range: U+0370-03FF;
+}
+
+/* roboto-vietnamese-500-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url(./roboto-vietnamese-500-normal-0948409a.woff2) format('woff2'), url(./roboto-vietnamese-500-normal-7899e6a5.woff) format('woff');
+  unicode-range: U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;
+}
+
+/* roboto-latin-ext-500-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url(./roboto-latin-ext-500-normal-7f1c829b.woff2) format('woff2'), url(./roboto-latin-ext-500-normal-a303676a.woff) format('woff');
+  unicode-range: U+0100-02AF,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;
+}
+
+/* roboto-latin-500-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url(./roboto-latin-500-normal-b0195382.woff2) format('woff2'), url(./roboto-latin-500-normal-3ac31048.woff) format('woff');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}/* roboto-cyrillic-ext-700-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./roboto-cyrillic-ext-700-normal-3c505383.woff2) format('woff2'), url(./roboto-cyrillic-ext-700-normal-8ea7934f.woff) format('woff');
+  unicode-range: U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;
+}
+
+/* roboto-cyrillic-700-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./roboto-cyrillic-700-normal-6a84eeee.woff2) format('woff2'), url(./roboto-cyrillic-700-normal-6f82c5e2.woff) format('woff');
+  unicode-range: U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;
+}
+
+/* roboto-greek-ext-700-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(data:font/woff2;base64,d09GMgABAAAAAAWYABIAAAAACaAAAAU6AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGiYbIBw2BmAANAhICYM8EQwKg0iDLwsQABIUATYCJAMcBCAFgn4HIAyCKRs/CCCOk6WSgeIPHr5v07+zgm5MOS1LaB1tnYpB0tQU4l4R44nbhKf+Z+rA83jrYWYTqhht1N+qejHd/3+v6r03UxOKrgn+E6X7M/bo3iAFjdE7pc3d2I0bvEIF4uomIlFn2f7i2quz7wH+LRAoZAMAxQgsCAQCBTAAAwEIwEE+hYho5bJ1GABoAJnMI+ZRjEETjWzdtbmPis7N7b3d0Ne8dcAFAFu08HxVu0l5BB30S/XJINx9j/oyHRWYFOB8KTuq7soqTPdyvZeFNDrGpQom4ioALaJLTEzUVVCdL0RFsE7DRA0EX6VM5v2fffQgAoAJfM31pDmaSpjbeZbX2MsPFKabKFQuw1Q9OLUIhdoZ5OqSQkspReJG8ixPkG35EAVA4lsq7aviw0KcmXhAZI7J6Ihhu9rY4JfCZ5qx7qgUTX6p+KSY4PFL1WdWSnV05Zq4N2EmzWR1W9KsNLua26Q2muTcpdqTiaApWZtuU7IuHjk/4bK17YlExC+1lRRaLplA2exZQ9Eji8P/fqn7lorVMaviq+PyYNQl50dZ5PGYMfnEqrh8IuqysWQt25Q/tvZ1l24YrDnLBEnZFomt1dh8GZH4koGe1yMP6rQr6U10P09MfEBw+MzvSXV0rBUPrkrGDs4JF3Pnlku4RmHUL+2+pWvjsajLwyv90uGTFTEGJ3p3GL7hseKkmXxE9OB8NFp/GyfXuTupUL8aSrikN7VNmicfyCUc+KG9LJ+c/9ppUpNhL9GVBG8sqg+CQMGGksmQA4AVgGzADswFukNojO5G504oZXlNRS8v22I/f9yenJ17unpsvXU5PaI3e8/Btz5yJD95Z4M49O6nZ3z8Ni3vDUfytXUcfN152psb99Q6ic8OJ6+vX/fGG2LcM+jyGbW9Dt2adzi2/Ufnjk+vUUX9SVGvrlrzyf1vXrSo/K7773XdcdlCXl785qWV5Xf2Cdv7fSPI59d9f/FF133DJ1UfXvf7pRdd8x2fLC49/7KBWa8WfT63zr/2jgb27Olr1ldX1J2sdzEGrRKs6P8/AgqQLsl8p2/V30QSi1SCrmGldG7CR7QYB1OaQl7+zJQOpVVhW5CO91JGTJl1lJIrs98LhVOa21TQSoUvrY+G2kANtWOkkTtcKKRjYtzzlus3gCZx7QyFkc6gtL408gkCRM+ZK3XK68HsxSAAw27VQLFoVux5FW/+rrcHH2nMmf27rcwGwDM/5QUAXhdr3vgn9P/r9hO2LQjsKAAIsPalDbAnTZueOgHB7WVVT6fNPUUa+nE2NDe1/bl0CQKwchbFrKCXQ/Y9FJRJWBCAjQ4qQrMDDXCtAoMGq4KNHqtKMZulmlVnDCetFoq587rZrPMMiwwasstm3Tp12cpkEiHCg9GkyiCndH3anasNaBXILRDEvuyawuSWwF9st0W7zbZr1ybAGoNaDNpq0EKD+rSFs2ZLbiitb9GN5MA2MLA8menM2tTh6eVqf3ALq7caEiE4KHa8XYBmQ5q16tIuwKDNOgXp061VuwFbtNsiyDLVFolZYa0Y/5f/RggVADI92oAbSmOiZCIp4VQmcr8Ij3MXZ2ObeL8SjfjMfCerhl20c3bURbwu+vampdNGuFhGu0vznC7WhdMmjMx3sUWCFaU5bfs0H1wctUsjE8qcnP8+f/Xm2AFShtM6UfLXuysVyhZbUjJ3hlX6ramDMNTflppXyIlG0AEI6remVtIgnUV3UQbcwSLaRtsY+ZzSyvxgqUMHEj8SuJkSjaCz6EXKwDxGPVguigKkDZocbphiCwAAAA==) format('woff2'), url(data:font/woff;base64,d09GRgABAAAAAATgAA4AAAAABWgAAQABAAAAAAAAAAAAAAAAAAAAAAAAAABHREVGAAABRAAAAB8AAAAmAEYABkdQT1MAAAFkAAAAIAAAACBEcExrR1NVQgAAAYQAAAA2AAAANpMNggRPUy8yAAABvAAAAE0AAABglH/g+WNtYXAAAAIMAAAAKQAAADQAER+gZ2FzcAAAAjgAAAAMAAAADAAIABNnbHlmAAACRAAAARQAAAEUTyuJzWhlYWQAAANYAAAANgAAADb819JcaGhlYQAAA5AAAAAfAAAAJAsmBdNobXR4AAADsAAAABwAAAAcE/v/LGxvY2EAAAPMAAAAEAAAABAA0AE7bWF4cAAAA9wAAAAgAAAAIAI3AxFuYW1lAAAD/AAAANAAAAF+G545lXBvc3QAAATMAAAAEwAAACD/bQBkeNpjYGRgYuBjgAAxII8NiEGQCcjnAWEgmwEABhIATQAAAQAAAAoAEgAUAAFERkxUAAwAAAAAAAQAAAAA//8AAAABAAAACgAkACYABERGTFQAHmN5cmwAImdyZWsAImxhdG4AIgAAAAAACAAAAAAAAAAA//8AAAAAeNpjYGZZzrSHgZWBgXUWqzEDA6M8hGa+yJDGxMDAAMRQ4MCACtz9/d0ZFOR95X3ZGP4xMKSxz2JiUGBgnA+SY7Fi3cCgAITMAAhDCuUAAAB42mNgYGACYmYgFgGSjGCahUEBSLMAIZAv7/v/P4R8sBMszwAAVmAGzQAAAAABAAIACAAC//8ADwAFAGQAAAMoBbAAAwAGAAkADAAPAAAhIREhAxEBAREBAyEBNQEhAyj9PALENv7u/roBDOQCA/7+AQL9/QWw+qQFB/19Anf7EQJ4/V4CXogCXgAAAgBW/+wFLgXEABAAHgAAARQCBCMiJAInNTQSJCAEEhUlNCYjIgYHFRQWMzI2NwUumP7lt7X+5JwBmwEbAWwBG5v+0KSYl6QBpJqXogECt9f+vLCuAUPSSNcBR6+v/rnWAeXu6+NH3/bt4wAAAgBbBG8CywXXAAUADgAAARMzFQMjATMVFhcHJiY1AYlv0+Zc/tKtAUxTSl0EmwE8Ff7BAVRefDhWI4ldAP///hf/7AV0BdcAJgAERgAABwAF/bwAAAABAAAAAiMSfSJFaF8PPPUAGQgAAAAAAMTwES4AAAAA1QFS1vow/dUJhwhzAAEACQACAAAAAAAAeNpjYGRgYM/5x8PAwNn1y+CfKWc7UAQVsAMAfH0FBwADjABkAAAAAAAAAAAB/gAABYYAVgMfAFsFzP4XAAAAKQApACkAKQBfAH4AigABAAAABwCPABYATgAFAAEAAAAAAA4AAAIAAjIABgABeNpNjoEGwmAUhb+qUiRAAAYCalWIApUkEioBomqtZbbZpvQGPU1P0YN18Js5zvXdw3EvUONGiUK5DhzBcIEGR8NFajwMl2gRGy7nuEKbj+Gq8q/hJnt+zAmJeBPj4XInxWJAj75ksSSUXHwcbSsCLnRFU3zJYpu1ErThkMgxT80rXSUhZzmVZ7KvNJ9ZWXpAPbU97QH6Qe0+Q0ZMMB+J891O1tV9KWKMLb2Q1D4RyRfuONpCYlxsfDxlDgH6VLZZs2LOgg07zQ66TO8Pnw41VHjaY2BmAIP/WQwpDFgAACofAdEA) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+
+/* roboto-greek-700-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./roboto-greek-700-normal-1c9cc76f.woff2) format('woff2'), url(./roboto-greek-700-normal-3f1a5012.woff) format('woff');
+  unicode-range: U+0370-03FF;
+}
+
+/* roboto-vietnamese-700-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./roboto-vietnamese-700-normal-4ec57f2a.woff2) format('woff2'), url(./roboto-vietnamese-700-normal-d986b503.woff) format('woff');
+  unicode-range: U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;
+}
+
+/* roboto-latin-ext-700-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./roboto-latin-ext-700-normal-fc66f942.woff2) format('woff2'), url(./roboto-latin-ext-700-normal-3d1cbacf.woff) format('woff');
+  unicode-range: U+0100-02AF,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;
+}
+
+/* roboto-latin-700-normal */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./roboto-latin-700-normal-f5aebdfe.woff2) format('woff2'), url(./roboto-latin-700-normal-d89bc0fc.woff) format('woff');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}/* Copyright 2014 Mozilla Foundation
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+:root {
+  --react-pdf-text-layer: 1;
+  --highlight-bg-color: rgba(180, 0, 170, 1);
+  --highlight-selected-bg-color: rgba(0, 100, 0, 1);
+}
+
+@media screen and (forced-colors: active) {
+  :root {
+    --highlight-bg-color: Highlight;
+    --highlight-selected-bg-color: ButtonText;
+  }
+}
+
+[data-main-rotation='90'] {
+  transform: rotate(90deg) translateY(-100%);
+}
+[data-main-rotation='180'] {
+  transform: rotate(180deg) translate(-100%, -100%);
+}
+[data-main-rotation='270'] {
+  transform: rotate(270deg) translateX(-100%);
+}
+
+.textLayer {
+  position: absolute;
+  text-align: initial;
+  inset: 0;
+  overflow: hidden;
+  line-height: 1;
+  -webkit-text-size-adjust: none;
+     -moz-text-size-adjust: none;
+          text-size-adjust: none;
+  forced-color-adjust: none;
+  transform-origin: 0 0;
+  z-index: 2;
+}
+
+.textLayer :is(span, br) {
+  color: transparent;
+  position: absolute;
+  white-space: pre;
+  cursor: text;
+  margin: 0;
+  transform-origin: 0 0;
+}
+
+/* Only necessary in Google Chrome, see issue 14205, and most unfortunately
+ * the problem doesn't show up in "text" reference tests. */
+.textLayer span.markedContent {
+  top: 0;
+  height: 0;
+}
+
+.textLayer .highlight {
+  margin: -1px;
+  padding: 1px;
+  background-color: var(--highlight-bg-color);
+  border-radius: 4px;
+}
+
+.textLayer .highlight.appended {
+  position: initial;
+}
+
+.textLayer .highlight.begin {
+  border-radius: 4px 0 0 4px;
+}
+
+.textLayer .highlight.end {
+  border-radius: 0 4px 4px 0;
+}
+
+.textLayer .highlight.middle {
+  border-radius: 0;
+}
+
+.textLayer .highlight.selected {
+  background-color: var(--highlight-selected-bg-color);
+}
+
+/* Avoids https://github.com/mozilla/pdf.js/issues/13840 in Chrome */
+.textLayer br::-moz-selection {
+  background: transparent;
+}
+.textLayer br::selection {
+  background: transparent;
+}
+
+.textLayer .endOfContent {
+  display: block;
+  position: absolute;
+  inset: 100% 0 0;
+  z-index: -1;
+  cursor: default;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+}
+
+.textLayer .endOfContent.active {
+  top: 0;
+}
+.react-pdf__Outline {
+  margin-top: 3ch;
+  margin-left: 3ch;
+  padding: 5px;
+}
+
+.react-pdf__Outline ul {
+  padding-inline-start: 2ch;
+}@font-face {
+  font-family: "Material Icons";
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("./material-icons-8265f647.woff2") format("woff2"), url("./material-icons-fd84f88b.woff") format("woff");
+}
+.material-icons {
+  font-family: "Material Icons";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "liga";
+}
+
+@font-face {
+  font-family: "Material Icons Outlined";
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("./material-icons-outlined-35dca8a7.woff2") format("woff2"), url("./material-icons-outlined-8e94758c.woff") format("woff");
+}
+.material-icons-outlined {
+  font-family: "Material Icons Outlined";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "liga";
+}
+
+@font-face {
+  font-family: "Material Icons Round";
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("./material-icons-round-c948f126.woff2") format("woff2"), url("./material-icons-round-1c135b15.woff") format("woff");
+}
+.material-icons-round {
+  font-family: "Material Icons Round";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "liga";
+}
+
+@font-face {
+  font-family: "Material Icons Sharp";
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("./material-icons-sharp-d31bfb81.woff2") format("woff2"), url("./material-icons-sharp-fa3888ef.woff") format("woff");
+}
+.material-icons-sharp {
+  font-family: "Material Icons Sharp";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "liga";
+}
+
+@font-face {
+  font-family: "Material Icons Two Tone";
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("./material-icons-two-tone-1e673ba8.woff2") format("woff2"), url("./material-icons-two-tone-3d34f30a.woff") format("woff");
+}
+.material-icons-two-tone {
+  font-family: "Material Icons Two Tone";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "liga";
+}
+.reactEasyCrop_Container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+  touch-action: none;
+  cursor: move;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.reactEasyCrop_Image,
+.reactEasyCrop_Video {
+  will-change: transform; /* this improves performances and prevent painting issues on iOS Chrome */
+}
+
+.reactEasyCrop_Contain {
+  max-width: 100%;
+  max-height: 100%;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.reactEasyCrop_Cover_Horizontal {
+  width: 100%;
+  height: auto;
+}
+.reactEasyCrop_Cover_Vertical {
+  width: auto;
+  height: 100%;
+}
+
+.reactEasyCrop_CropArea {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  box-sizing: border-box;
+  box-shadow: 0 0 0 9999em;
+  color: rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+}
+
+.reactEasyCrop_CropAreaRound {
+  border-radius: 50%;
+}
+
+.reactEasyCrop_CropAreaGrid::before {
+  content: ' ';
+  box-sizing: border-box;
+  position: absolute;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  top: 0;
+  bottom: 0;
+  left: 33.33%;
+  right: 33.33%;
+  border-top: 0;
+  border-bottom: 0;
+}
+
+.reactEasyCrop_CropAreaGrid::after {
+  content: ' ';
+  box-sizing: border-box;
+  position: absolute;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  top: 33.33%;
+  bottom: 33.33%;
+  left: 0;
+  right: 0;
+  border-left: 0;
+  border-right: 0;
+}
+/* purgecss start ignore */
+/* ! tailwindcss v3.3.3 | MIT License | https://tailwindcss.com */
+/*
+1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)
+2. Allow adding a border to an element by just adding a border-width. (https://github.com/tailwindcss/tailwindcss/pull/116)
+*/
+*,
+::before,
+::after {
+  box-sizing: border-box; /* 1 */
+  border-width: 0; /* 2 */
+  border-style: solid; /* 2 */
+  border-color: #e5e7eb; /* 2 */
+}
+::before,
+::after {
+  --tw-content: '';
+}
+/*
+1. Use a consistent sensible line-height in all browsers.
+2. Prevent adjustments of font size after orientation changes in iOS.
+3. Use a more readable tab size.
+4. Use the user's configured `sans` font-family by default.
+5. Use the user's configured `sans` font-feature-settings by default.
+6. Use the user's configured `sans` font-variation-settings by default.
+*/
+html {
+  line-height: 1.5; /* 1 */
+  -webkit-text-size-adjust: 100%; /* 2 */
+  -moz-tab-size: 4; /* 3 */
+  -o-tab-size: 4;
+     tab-size: 4; /* 3 */
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; /* 4 */
+  font-feature-settings: normal; /* 5 */
+  font-variation-settings: normal; /* 6 */
+}
+/*
+1. Remove the margin in all browsers.
+2. Inherit line-height from `html` so users can set them as a class directly on the `html` element.
+*/
+body {
+  margin: 0; /* 1 */
+  line-height: inherit; /* 2 */
+}
+/*
+1. Add the correct height in Firefox.
+2. Correct the inheritance of border color in Firefox. (https://bugzilla.mozilla.org/show_bug.cgi?id=190655)
+3. Ensure horizontal rules are visible by default.
+*/
+hr {
+  height: 0; /* 1 */
+  color: inherit; /* 2 */
+  border-top-width: 1px; /* 3 */
+}
+/*
+Add the correct text decoration in Chrome, Edge, and Safari.
+*/
+abbr:where([title]) {
+  -webkit-text-decoration: underline dotted;
+          text-decoration: underline dotted;
+}
+/*
+Remove the default font size and weight for headings.
+*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: inherit;
+  font-weight: inherit;
+}
+/*
+Reset links to optimize for opt-in styling instead of opt-out.
+*/
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+/*
+Add the correct font weight in Edge and Safari.
+*/
+b,
+strong {
+  font-weight: bolder;
+}
+/*
+1. Use the user's configured `mono` font family by default.
+2. Correct the odd `em` font sizing in all browsers.
+*/
+code,
+kbd,
+samp,
+pre {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; /* 1 */
+  font-size: 1em; /* 2 */
+}
+/*
+Add the correct font size in all browsers.
+*/
+small {
+  font-size: 80%;
+}
+/*
+Prevent `sub` and `sup` elements from affecting the line height in all browsers.
+*/
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+sub {
+  bottom: -0.25em;
+}
+sup {
+  top: -0.5em;
+}
+/*
+1. Remove text indentation from table contents in Chrome and Safari. (https://bugs.chromium.org/p/chromium/issues/detail?id=999088, https://bugs.webkit.org/show_bug.cgi?id=201297)
+2. Correct table border color inheritance in all Chrome and Safari. (https://bugs.chromium.org/p/chromium/issues/detail?id=935729, https://bugs.webkit.org/show_bug.cgi?id=195016)
+3. Remove gaps between table borders by default.
+*/
+table {
+  text-indent: 0; /* 1 */
+  border-color: inherit; /* 2 */
+  border-collapse: collapse; /* 3 */
+}
+/*
+1. Change the font styles in all browsers.
+2. Remove the margin in Firefox and Safari.
+3. Remove default padding in all browsers.
+*/
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit; /* 1 */
+  font-feature-settings: inherit; /* 1 */
+  font-variation-settings: inherit; /* 1 */
+  font-size: 100%; /* 1 */
+  font-weight: inherit; /* 1 */
+  line-height: inherit; /* 1 */
+  color: inherit; /* 1 */
+  margin: 0; /* 2 */
+  padding: 0; /* 3 */
+}
+/*
+Remove the inheritance of text transform in Edge and Firefox.
+*/
+button,
+select {
+  text-transform: none;
+}
+/*
+1. Correct the inability to style clickable types in iOS and Safari.
+2. Remove default button styles.
+*/
+button,
+[type='button'],
+[type='reset'],
+[type='submit'] {
+  -webkit-appearance: button; /* 1 */
+  background-color: transparent; /* 2 */
+  background-image: none; /* 2 */
+}
+/*
+Use the modern Firefox focus style for all focusable elements.
+*/
+:-moz-focusring {
+  outline: auto;
+}
+/*
+Remove the additional `:invalid` styles in Firefox. (https://github.com/mozilla/gecko-dev/blob/2f9eacd9d3d995c937b4251a5557d95d494c9be1/layout/style/res/forms.css#L728-L737)
+*/
+:-moz-ui-invalid {
+  box-shadow: none;
+}
+/*
+Add the correct vertical alignment in Chrome and Firefox.
+*/
+progress {
+  vertical-align: baseline;
+}
+/*
+Correct the cursor style of increment and decrement buttons in Safari.
+*/
+::-webkit-inner-spin-button,
+::-webkit-outer-spin-button {
+  height: auto;
+}
+/*
+1. Correct the odd appearance in Chrome and Safari.
+2. Correct the outline style in Safari.
+*/
+[type='search'] {
+  -webkit-appearance: textfield; /* 1 */
+  outline-offset: -2px; /* 2 */
+}
+/*
+Remove the inner padding in Chrome and Safari on macOS.
+*/
+::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+/*
+1. Correct the inability to style clickable types in iOS and Safari.
+2. Change font properties to `inherit` in Safari.
+*/
+::-webkit-file-upload-button {
+  -webkit-appearance: button; /* 1 */
+  font: inherit; /* 2 */
+}
+/*
+Add the correct display in Chrome and Safari.
+*/
+summary {
+  display: list-item;
+}
+/*
+Removes the default spacing and border for appropriate elements.
+*/
+blockquote,
+dl,
+dd,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+figure,
+p,
+pre {
+  margin: 0;
+}
+fieldset {
+  margin: 0;
+  padding: 0;
+}
+legend {
+  padding: 0;
+}
+ol,
+ul,
+menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+/*
+Reset default styling for dialogs.
+*/
+dialog {
+  padding: 0;
+}
+/*
+Prevent resizing textareas horizontally by default.
+*/
+textarea {
+  resize: vertical;
+}
+/*
+1. Reset the default placeholder opacity in Firefox. (https://github.com/tailwindlabs/tailwindcss/issues/3300)
+2. Set the default placeholder color to the user's configured gray 400 color.
+*/
+input::-moz-placeholder, textarea::-moz-placeholder {
+  opacity: 1; /* 1 */
+  color: #9ca3af; /* 2 */
+}
+input::placeholder,
+textarea::placeholder {
+  opacity: 1; /* 1 */
+  color: #9ca3af; /* 2 */
+}
+/*
+Set the default cursor for buttons.
+*/
+button,
+[role="button"] {
+  cursor: pointer;
+}
+/*
+Make sure disabled buttons don't get the pointer cursor.
+*/
+:disabled {
+  cursor: default;
+}
+/*
+1. Make replaced elements `display: block` by default. (https://github.com/mozdevs/cssremedy/issues/14)
+2. Add `vertical-align: middle` to align replaced elements more sensibly by default. (https://github.com/jensimmons/cssremedy/issues/14#issuecomment-634934210)
+   This can trigger a poorly considered lint error in some tools but is included by design.
+*/
+img,
+svg,
+video,
+canvas,
+audio,
+iframe,
+embed,
+object {
+  display: block; /* 1 */
+  vertical-align: middle; /* 2 */
+}
+/*
+Constrain images and videos to the parent width and preserve their intrinsic aspect ratio. (https://github.com/mozdevs/cssremedy/issues/14)
+*/
+img,
+video {
+  max-width: 100%;
+  height: auto;
+}
+/* Make elements with the HTML hidden attribute stay hidden by default */
+[hidden] {
+  display: none;
+}
+*, ::before, ::after {
+  --tw-border-spacing-x: 0;
+  --tw-border-spacing-y: 0;
+  --tw-translate-x: 0;
+  --tw-translate-y: 0;
+  --tw-rotate: 0;
+  --tw-skew-x: 0;
+  --tw-skew-y: 0;
+  --tw-scale-x: 1;
+  --tw-scale-y: 1;
+  --tw-pan-x:  ;
+  --tw-pan-y:  ;
+  --tw-pinch-zoom:  ;
+  --tw-scroll-snap-strictness: proximity;
+  --tw-gradient-from-position:  ;
+  --tw-gradient-via-position:  ;
+  --tw-gradient-to-position:  ;
+  --tw-ordinal:  ;
+  --tw-slashed-zero:  ;
+  --tw-numeric-figure:  ;
+  --tw-numeric-spacing:  ;
+  --tw-numeric-fraction:  ;
+  --tw-ring-inset:  ;
+  --tw-ring-offset-width: 0px;
+  --tw-ring-offset-color: #fff;
+  --tw-ring-color: rgb(59 130 246 / 0.5);
+  --tw-ring-offset-shadow: 0 0 #0000;
+  --tw-ring-shadow: 0 0 #0000;
+  --tw-shadow: 0 0 #0000;
+  --tw-shadow-colored: 0 0 #0000;
+  --tw-blur:  ;
+  --tw-brightness:  ;
+  --tw-contrast:  ;
+  --tw-grayscale:  ;
+  --tw-hue-rotate:  ;
+  --tw-invert:  ;
+  --tw-saturate:  ;
+  --tw-sepia:  ;
+  --tw-drop-shadow:  ;
+  --tw-backdrop-blur:  ;
+  --tw-backdrop-brightness:  ;
+  --tw-backdrop-contrast:  ;
+  --tw-backdrop-grayscale:  ;
+  --tw-backdrop-hue-rotate:  ;
+  --tw-backdrop-invert:  ;
+  --tw-backdrop-opacity:  ;
+  --tw-backdrop-saturate:  ;
+  --tw-backdrop-sepia:  ;
+}
+::backdrop {
+  --tw-border-spacing-x: 0;
+  --tw-border-spacing-y: 0;
+  --tw-translate-x: 0;
+  --tw-translate-y: 0;
+  --tw-rotate: 0;
+  --tw-skew-x: 0;
+  --tw-skew-y: 0;
+  --tw-scale-x: 1;
+  --tw-scale-y: 1;
+  --tw-pan-x:  ;
+  --tw-pan-y:  ;
+  --tw-pinch-zoom:  ;
+  --tw-scroll-snap-strictness: proximity;
+  --tw-gradient-from-position:  ;
+  --tw-gradient-via-position:  ;
+  --tw-gradient-to-position:  ;
+  --tw-ordinal:  ;
+  --tw-slashed-zero:  ;
+  --tw-numeric-figure:  ;
+  --tw-numeric-spacing:  ;
+  --tw-numeric-fraction:  ;
+  --tw-ring-inset:  ;
+  --tw-ring-offset-width: 0px;
+  --tw-ring-offset-color: #fff;
+  --tw-ring-color: rgb(59 130 246 / 0.5);
+  --tw-ring-offset-shadow: 0 0 #0000;
+  --tw-ring-shadow: 0 0 #0000;
+  --tw-shadow: 0 0 #0000;
+  --tw-shadow-colored: 0 0 #0000;
+  --tw-blur:  ;
+  --tw-brightness:  ;
+  --tw-contrast:  ;
+  --tw-grayscale:  ;
+  --tw-hue-rotate:  ;
+  --tw-invert:  ;
+  --tw-saturate:  ;
+  --tw-sepia:  ;
+  --tw-drop-shadow:  ;
+  --tw-backdrop-blur:  ;
+  --tw-backdrop-brightness:  ;
+  --tw-backdrop-contrast:  ;
+  --tw-backdrop-grayscale:  ;
+  --tw-backdrop-hue-rotate:  ;
+  --tw-backdrop-invert:  ;
+  --tw-backdrop-opacity:  ;
+  --tw-backdrop-saturate:  ;
+  --tw-backdrop-sepia:  ;
+}
+.container {
+  width: 100%;
+}
+@media (min-width: 640px) {
+  .container {
+    max-width: 640px;
+  }
+}
+@media (min-width: 768px) {
+  .container {
+    max-width: 768px;
+  }
+}
+@media (min-width: 1024px) {
+  .container {
+    max-width: 1024px;
+  }
+}
+@media (min-width: 1280px) {
+  .container {
+    max-width: 1280px;
+  }
+}
+@media (min-width: 1536px) {
+  .container {
+    max-width: 1536px;
+  }
+}
+/* purgecss end ignore */
+
+.visible {
+  visibility: visible !important;
+}
+
+.collapse {
+  visibility: collapse !important;
+}
+
+.fixed {
+  position: fixed !important;
+}
+
+.absolute {
+  position: absolute !important;
+}
+
+.relative {
+  position: relative !important;
+}
+
+.m-auto {
+  margin: auto !important;
+}
+
+.ml-2 {
+  margin-left: 0.5rem !important;
+}
+
+.mr-1 {
+  margin-right: 0.25rem !important;
+}
+
+.mr-2 {
+  margin-right: 0.5rem !important;
+}
+
+.block {
+  display: block !important;
+}
+
+.flex {
+  display: flex !important;
+}
+
+.table {
+  display: table !important;
+}
+
+.grid {
+  display: grid !important;
+}
+
+.contents {
+  display: contents !important;
+}
+
+.list-item {
+  display: list-item !important;
+}
+
+.hidden {
+  display: none !important;
+}
+
+.flex-1 {
+  flex: 1 1 0% !important;
+}
+
+.border-collapse {
+  border-collapse: collapse !important;
+}
+
+.transform {
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) !important;
+}
+
+.cursor-move {
+  cursor: move !important;
+}
+
+.cursor-pointer {
+  cursor: pointer !important;
+}
+
+.resize {
+  resize: both !important;
+}
+
+.items-center {
+  align-items: center !important;
+}
+
+.border {
+  border-width: 1px !important;
+}
+
+.bg-primary {
+  --tw-bg-opacity: 1 !important;
+  background-color: rgb(38 128 235 / var(--tw-bg-opacity)) !important;
+}
+
+.px-2 {
+  padding-left: 0.5rem !important;
+  padding-right: 0.5rem !important;
+}
+
+.py-2 {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+}
+
+.italic {
+  font-style: italic !important;
+}
+
+.text-white {
+  --tw-text-opacity: 1 !important;
+  color: rgb(255 255 255 / var(--tw-text-opacity)) !important;
+}
+
+.underline {
+  text-decoration-line: underline !important;
+}
+
+.shadow {
+  --tw-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1) !important;
+  --tw-shadow-colored: 0 1px 3px 0 var(--tw-shadow-color), 0 1px 2px -1px var(--tw-shadow-color) !important;
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow) !important;
+}
+
+.outline {
+  outline-style: solid !important;
+}
+
+.filter {
+  filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow) !important;
+}
+
+.transition {
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter !important;
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter !important;
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter !important;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1) !important;
+  transition-duration: 150ms !important;
+}
+
+/* 确保编辑模式的正确style */
+[contenteditable]:focus {
+  outline: 0px solid transparent;
+  cursor: text;
+}
+
+.component-selected {
+  position: relative;
+}
+
+/* .droparea {
+  position: relative;
+}
+
+.droparea::after {
+  content: attr(datatooltip);
+  position: absolute;
+  left: 0.4em;
+  top: -0.8em;
+  font-size: 0.7em;
+  font-weight: bold;
+  background: rgb(238 238 238); 
+} */
+
+
+/* 显示hover边框 */
+.component-selected::after {
+  content: ' ';
+  pointer-events: none;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  display: block;
+  height: 100%;
+  width: 100%;
+  border-width: 1px;
+  border-style: dashed;
+  --tw-border-opacity: 1;
+  border-color: rgb(38 128 235 / var(--tw-border-opacity));
+}
+
+/* 进入聚焦编辑模式去除边框(否则滚动时会带着边框) */
+.component-selected:focus-within::after {
+  content: none;
+}
+
+.reactEasyCrop_CropArea {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.transition {
+  transition: 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+#carbonads * {
+  margin: initial;
+  padding: initial;
+}
+
+#carbonads {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', Helvetica, Arial,
+    sans-serif;
+
+  padding: 10px 0.5rem;
+  border-top: 1px solid rgb(0 0 0 / 6%);
+}
+/* this will be exported as base.css and can be used for a basic styling */
+/* these are the necessary styles for React Flow, they get used by base.css and style.css */
+.react-flow__container {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.react-flow__pane {
+  z-index: 1;
+  cursor: grab;
+}
+.react-flow__pane.selection {
+    cursor: pointer;
+  }
+.react-flow__pane.dragging {
+    cursor: grabbing;
+  }
+.react-flow__viewport {
+  transform-origin: 0 0;
+  z-index: 2;
+  pointer-events: none;
+}
+.react-flow__renderer {
+  z-index: 4;
+}
+.react-flow__selection {
+  z-index: 6;
+}
+.react-flow__nodesselection-rect:focus,
+.react-flow__nodesselection-rect:focus-visible {
+  outline: none;
+}
+.react-flow .react-flow__edges {
+  pointer-events: none;
+  overflow: visible;
+}
+.react-flow__edge-path,
+.react-flow__connection-path {
+  stroke: #b1b1b7;
+  stroke-width: 1;
+  fill: none;
+}
+.react-flow__edge {
+  pointer-events: visibleStroke;
+  cursor: pointer;
+}
+.react-flow__edge.animated path {
+    stroke-dasharray: 5;
+    animation: dashdraw 0.5s linear infinite;
+  }
+.react-flow__edge.animated path.react-flow__edge-interaction {
+    stroke-dasharray: none;
+    animation: none;
+  }
+.react-flow__edge.inactive {
+    pointer-events: none;
+  }
+.react-flow__edge.selected,
+  .react-flow__edge:focus,
+  .react-flow__edge:focus-visible {
+    outline: none;
+  }
+.react-flow__edge.selected .react-flow__edge-path,
+  .react-flow__edge:focus .react-flow__edge-path,
+  .react-flow__edge:focus-visible .react-flow__edge-path {
+    stroke: #555;
+  }
+.react-flow__edge-textwrapper {
+    pointer-events: all;
+  }
+.react-flow__edge-textbg {
+    fill: white;
+  }
+.react-flow__edge .react-flow__edge-text {
+    pointer-events: none;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+            user-select: none;
+  }
+.react-flow__connection {
+  pointer-events: none;
+}
+.react-flow__connection .animated {
+    stroke-dasharray: 5;
+    animation: dashdraw 0.5s linear infinite;
+  }
+.react-flow__connectionline {
+  z-index: 1001;
+}
+.react-flow__nodes {
+  pointer-events: none;
+  transform-origin: 0 0;
+}
+.react-flow__node {
+  position: absolute;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+  pointer-events: all;
+  transform-origin: 0 0;
+  box-sizing: border-box;
+  cursor: grab;
+}
+.react-flow__node.dragging {
+    cursor: grabbing;
+  }
+.react-flow__nodesselection {
+  z-index: 3;
+  transform-origin: left top;
+  pointer-events: none;
+}
+.react-flow__nodesselection-rect {
+    position: absolute;
+    pointer-events: all;
+    cursor: grab;
+  }
+.react-flow__handle {
+  position: absolute;
+  pointer-events: none;
+  min-width: 5px;
+  min-height: 5px;
+  background-color: #333;
+}
+.react-flow__handle.connectionindicator {
+    pointer-events: all;
+    cursor: crosshair;
+  }
+.react-flow__handle-bottom {
+    top: auto;
+    left: 50%;
+    bottom: -4px;
+    transform: translate(-50%, 0);
+  }
+.react-flow__handle-top {
+    left: 50%;
+    top: -4px;
+    transform: translate(-50%, 0);
+  }
+.react-flow__handle-left {
+    top: 50%;
+    left: -4px;
+    transform: translate(0, -50%);
+  }
+.react-flow__handle-right {
+    right: -4px;
+    top: 50%;
+    transform: translate(0, -50%);
+  }
+.react-flow__edgeupdater {
+  cursor: move;
+  pointer-events: all;
+}
+.react-flow__panel {
+  position: absolute;
+  z-index: 5;
+  margin: 15px;
+}
+.react-flow__panel.top {
+    top: 0;
+  }
+.react-flow__panel.bottom {
+    bottom: 0;
+  }
+.react-flow__panel.left {
+    left: 0;
+  }
+.react-flow__panel.right {
+    right: 0;
+  }
+.react-flow__panel.center {
+    left: 50%;
+    transform: translateX(-50%);
+  }
+.react-flow__attribution {
+  font-size: 10px;
+  background: rgba(255, 255, 255, 0.5);
+  padding: 2px 3px;
+  margin: 0;
+}
+.react-flow__attribution a {
+    text-decoration: none;
+    color: #999;
+  }
+@keyframes dashdraw {
+  from {
+    stroke-dashoffset: 10;
+  }
+}
+.react-flow__edgelabel-renderer {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+}
+.react-flow__node-default,
+.react-flow__node-input,
+.react-flow__node-output,
+.react-flow__node-group {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #bbb;
+}
+.react-flow__node-default.selected,
+  .react-flow__node-default:focus,
+  .react-flow__node-default:focus-visible,
+  .react-flow__node-input.selected,
+  .react-flow__node-input:focus,
+  .react-flow__node-input:focus-visible,
+  .react-flow__node-output.selected,
+  .react-flow__node-output:focus,
+  .react-flow__node-output:focus-visible,
+  .react-flow__node-group.selected,
+  .react-flow__node-group:focus,
+  .react-flow__node-group:focus-visible {
+    outline: none;
+    border: 1px solid #555;
+  }
+.react-flow__nodesselection-rect,
+.react-flow__selection {
+  background: rgba(150, 150, 180, 0.1);
+  border: 1px dotted rgba(155, 155, 155, 0.8);
+}
+.react-flow__controls {
+  box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.08);
+}
+.react-flow__controls-button {
+    border: none;
+    background: #fefefe;
+    border-bottom: 1px solid #eee;
+    box-sizing: content-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+            user-select: none;
+    padding: 5px;
+  }
+.react-flow__controls-button:hover {
+      background: #f4f4f4;
+    }
+.react-flow__controls-button svg {
+      width: 100%;
+      max-width: 12px;
+      max-height: 12px;
+    }
+.react-flow__controls-button:disabled {
+      pointer-events: none;
+    }
+.react-flow__controls-button:disabled svg {
+        fill-opacity: 0.4;
+      }
+.react-flow__minimap {
+  background-color: #fff;
+}
+.react-flow__resize-control {
+  position: absolute;
+}
+.react-flow__resize-control.left,
+.react-flow__resize-control.right {
+  cursor: ew-resize;
+}
+.react-flow__resize-control.top,
+.react-flow__resize-control.bottom {
+  cursor: ns-resize;
+}
+.react-flow__resize-control.top.left,
+.react-flow__resize-control.bottom.right {
+  cursor: nwse-resize;
+}
+.react-flow__resize-control.bottom.left,
+.react-flow__resize-control.top.right {
+  cursor: nesw-resize;
+}
+/* handle styles */
+.react-flow__resize-control.handle {
+  width: 4px;
+  height: 4px;
+  border: 1px solid #fff;
+  border-radius: 1px;
+  background-color: #3367d9;
+  transform: translate(-50%, -50%);
+}
+.react-flow__resize-control.handle.left {
+  left: 0;
+  top: 50%;
+}
+.react-flow__resize-control.handle.right {
+  left: 100%;
+  top: 50%;
+}
+.react-flow__resize-control.handle.top {
+  left: 50%;
+  top: 0;
+}
+.react-flow__resize-control.handle.bottom {
+  left: 50%;
+  top: 100%;
+}
+.react-flow__resize-control.handle.top.left {
+  left: 0;
+}
+.react-flow__resize-control.handle.bottom.left {
+  left: 0;
+}
+.react-flow__resize-control.handle.top.right {
+  left: 100%;
+}
+.react-flow__resize-control.handle.bottom.right {
+  left: 100%;
+}
+/* line styles */
+.react-flow__resize-control.line {
+  border-color: #3367d9;
+  border-width: 0;
+  border-style: solid;
+}
+.react-flow__resize-control.line.left,
+.react-flow__resize-control.line.right {
+  width: 1px;
+  transform: translate(-50%, 0);
+  top: 0;
+  height: 100%;
+}
+.react-flow__resize-control.line.left {
+  left: 0;
+  border-left-width: 1px;
+}
+.react-flow__resize-control.line.right {
+  left: 100%;
+  border-right-width: 1px;
+}
+.react-flow__resize-control.line.top,
+.react-flow__resize-control.line.bottom {
+  height: 1px;
+  transform: translate(0, -50%);
+  left: 0;
+  width: 100%;
+}
+.react-flow__resize-control.line.top {
+  top: 0;
+  border-top-width: 1px;
+}
+.react-flow__resize-control.line.bottom {
+  border-bottom-width: 1px;
+  top: 100%;
+}
+/* purgecss start ignore */
+/* ! tailwindcss v3.3.3 | MIT License | https://tailwindcss.com */
+/*
+1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)
+2. Allow adding a border to an element by just adding a border-width. (https://github.com/tailwindcss/tailwindcss/pull/116)
+*/
+*,
+::before,
+::after {
+  box-sizing: border-box; /* 1 */
+  border-width: 0; /* 2 */
+  border-style: solid; /* 2 */
+  border-color: #e5e7eb; /* 2 */
+}
+::before,
+::after {
+  --tw-content: '';
+}
+/*
+1. Use a consistent sensible line-height in all browsers.
+2. Prevent adjustments of font size after orientation changes in iOS.
+3. Use a more readable tab size.
+4. Use the user's configured `sans` font-family by default.
+5. Use the user's configured `sans` font-feature-settings by default.
+6. Use the user's configured `sans` font-variation-settings by default.
+*/
+html {
+  line-height: 1.5; /* 1 */
+  -webkit-text-size-adjust: 100%; /* 2 */
+  -moz-tab-size: 4; /* 3 */
+  -o-tab-size: 4;
+     tab-size: 4; /* 3 */
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; /* 4 */
+  font-feature-settings: normal; /* 5 */
+  font-variation-settings: normal; /* 6 */
+}
+/*
+1. Remove the margin in all browsers.
+2. Inherit line-height from `html` so users can set them as a class directly on the `html` element.
+*/
+body {
+  margin: 0; /* 1 */
+  line-height: inherit; /* 2 */
+}
+/*
+1. Add the correct height in Firefox.
+2. Correct the inheritance of border color in Firefox. (https://bugzilla.mozilla.org/show_bug.cgi?id=190655)
+3. Ensure horizontal rules are visible by default.
+*/
+hr {
+  height: 0; /* 1 */
+  color: inherit; /* 2 */
+  border-top-width: 1px; /* 3 */
+}
+/*
+Add the correct text decoration in Chrome, Edge, and Safari.
+*/
+abbr:where([title]) {
+  -webkit-text-decoration: underline dotted;
+          text-decoration: underline dotted;
+}
+/*
+Remove the default font size and weight for headings.
+*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: inherit;
+  font-weight: inherit;
+}
+/*
+Reset links to optimize for opt-in styling instead of opt-out.
+*/
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+/*
+Add the correct font weight in Edge and Safari.
+*/
+b,
+strong {
+  font-weight: bolder;
+}
+/*
+1. Use the user's configured `mono` font family by default.
+2. Correct the odd `em` font sizing in all browsers.
+*/
+code,
+kbd,
+samp,
+pre {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; /* 1 */
+  font-size: 1em; /* 2 */
+}
+/*
+Add the correct font size in all browsers.
+*/
+small {
+  font-size: 80%;
+}
+/*
+Prevent `sub` and `sup` elements from affecting the line height in all browsers.
+*/
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+sub {
+  bottom: -0.25em;
+}
+sup {
+  top: -0.5em;
+}
+/*
+1. Remove text indentation from table contents in Chrome and Safari. (https://bugs.chromium.org/p/chromium/issues/detail?id=999088, https://bugs.webkit.org/show_bug.cgi?id=201297)
+2. Correct table border color inheritance in all Chrome and Safari. (https://bugs.chromium.org/p/chromium/issues/detail?id=935729, https://bugs.webkit.org/show_bug.cgi?id=195016)
+3. Remove gaps between table borders by default.
+*/
+table {
+  text-indent: 0; /* 1 */
+  border-color: inherit; /* 2 */
+  border-collapse: collapse; /* 3 */
+}
+/*
+1. Change the font styles in all browsers.
+2. Remove the margin in Firefox and Safari.
+3. Remove default padding in all browsers.
+*/
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit; /* 1 */
+  font-feature-settings: inherit; /* 1 */
+  font-variation-settings: inherit; /* 1 */
+  font-size: 100%; /* 1 */
+  font-weight: inherit; /* 1 */
+  line-height: inherit; /* 1 */
+  color: inherit; /* 1 */
+  margin: 0; /* 2 */
+  padding: 0; /* 3 */
+}
+/*
+Remove the inheritance of text transform in Edge and Firefox.
+*/
+button,
+select {
+  text-transform: none;
+}
+/*
+1. Correct the inability to style clickable types in iOS and Safari.
+2. Remove default button styles.
+*/
+button,
+[type='button'],
+[type='reset'],
+[type='submit'] {
+  -webkit-appearance: button; /* 1 */
+  background-color: transparent; /* 2 */
+  background-image: none; /* 2 */
+}
+/*
+Use the modern Firefox focus style for all focusable elements.
+*/
+:-moz-focusring {
+  outline: auto;
+}
+/*
+Remove the additional `:invalid` styles in Firefox. (https://github.com/mozilla/gecko-dev/blob/2f9eacd9d3d995c937b4251a5557d95d494c9be1/layout/style/res/forms.css#L728-L737)
+*/
+:-moz-ui-invalid {
+  box-shadow: none;
+}
+/*
+Add the correct vertical alignment in Chrome and Firefox.
+*/
+progress {
+  vertical-align: baseline;
+}
+/*
+Correct the cursor style of increment and decrement buttons in Safari.
+*/
+::-webkit-inner-spin-button,
+::-webkit-outer-spin-button {
+  height: auto;
+}
+/*
+1. Correct the odd appearance in Chrome and Safari.
+2. Correct the outline style in Safari.
+*/
+[type='search'] {
+  -webkit-appearance: textfield; /* 1 */
+  outline-offset: -2px; /* 2 */
+}
+/*
+Remove the inner padding in Chrome and Safari on macOS.
+*/
+::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+/*
+1. Correct the inability to style clickable types in iOS and Safari.
+2. Change font properties to `inherit` in Safari.
+*/
+::-webkit-file-upload-button {
+  -webkit-appearance: button; /* 1 */
+  font: inherit; /* 2 */
+}
+/*
+Add the correct display in Chrome and Safari.
+*/
+summary {
+  display: list-item;
+}
+/*
+Removes the default spacing and border for appropriate elements.
+*/
+blockquote,
+dl,
+dd,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+figure,
+p,
+pre {
+  margin: 0;
+}
+fieldset {
+  margin: 0;
+  padding: 0;
+}
+legend {
+  padding: 0;
+}
+ol,
+ul,
+menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+/*
+Reset default styling for dialogs.
+*/
+dialog {
+  padding: 0;
+}
+/*
+Prevent resizing textareas horizontally by default.
+*/
+textarea {
+  resize: vertical;
+}
+/*
+1. Reset the default placeholder opacity in Firefox. (https://github.com/tailwindlabs/tailwindcss/issues/3300)
+2. Set the default placeholder color to the user's configured gray 400 color.
+*/
+input::-moz-placeholder, textarea::-moz-placeholder {
+  opacity: 1; /* 1 */
+  color: #9ca3af; /* 2 */
+}
+input::placeholder,
+textarea::placeholder {
+  opacity: 1; /* 1 */
+  color: #9ca3af; /* 2 */
+}
+/*
+Set the default cursor for buttons.
+*/
+button,
+[role="button"] {
+  cursor: pointer;
+}
+/*
+Make sure disabled buttons don't get the pointer cursor.
+*/
+:disabled {
+  cursor: default;
+}
+/*
+1. Make replaced elements `display: block` by default. (https://github.com/mozdevs/cssremedy/issues/14)
+2. Add `vertical-align: middle` to align replaced elements more sensibly by default. (https://github.com/jensimmons/cssremedy/issues/14#issuecomment-634934210)
+   This can trigger a poorly considered lint error in some tools but is included by design.
+*/
+img,
+svg,
+video,
+canvas,
+audio,
+iframe,
+embed,
+object {
+  display: block; /* 1 */
+  vertical-align: middle; /* 2 */
+}
+/*
+Constrain images and videos to the parent width and preserve their intrinsic aspect ratio. (https://github.com/mozdevs/cssremedy/issues/14)
+*/
+img,
+video {
+  max-width: 100%;
+  height: auto;
+}
+/* Make elements with the HTML hidden attribute stay hidden by default */
+[hidden] {
+  display: none;
+}
+*, ::before, ::after {
+  --tw-border-spacing-x: 0;
+  --tw-border-spacing-y: 0;
+  --tw-translate-x: 0;
+  --tw-translate-y: 0;
+  --tw-rotate: 0;
+  --tw-skew-x: 0;
+  --tw-skew-y: 0;
+  --tw-scale-x: 1;
+  --tw-scale-y: 1;
+  --tw-pan-x:  ;
+  --tw-pan-y:  ;
+  --tw-pinch-zoom:  ;
+  --tw-scroll-snap-strictness: proximity;
+  --tw-gradient-from-position:  ;
+  --tw-gradient-via-position:  ;
+  --tw-gradient-to-position:  ;
+  --tw-ordinal:  ;
+  --tw-slashed-zero:  ;
+  --tw-numeric-figure:  ;
+  --tw-numeric-spacing:  ;
+  --tw-numeric-fraction:  ;
+  --tw-ring-inset:  ;
+  --tw-ring-offset-width: 0px;
+  --tw-ring-offset-color: #fff;
+  --tw-ring-color: rgb(59 130 246 / 0.5);
+  --tw-ring-offset-shadow: 0 0 #0000;
+  --tw-ring-shadow: 0 0 #0000;
+  --tw-shadow: 0 0 #0000;
+  --tw-shadow-colored: 0 0 #0000;
+  --tw-blur:  ;
+  --tw-brightness:  ;
+  --tw-contrast:  ;
+  --tw-grayscale:  ;
+  --tw-hue-rotate:  ;
+  --tw-invert:  ;
+  --tw-saturate:  ;
+  --tw-sepia:  ;
+  --tw-drop-shadow:  ;
+  --tw-backdrop-blur:  ;
+  --tw-backdrop-brightness:  ;
+  --tw-backdrop-contrast:  ;
+  --tw-backdrop-grayscale:  ;
+  --tw-backdrop-hue-rotate:  ;
+  --tw-backdrop-invert:  ;
+  --tw-backdrop-opacity:  ;
+  --tw-backdrop-saturate:  ;
+  --tw-backdrop-sepia:  ;
+}
+::backdrop {
+  --tw-border-spacing-x: 0;
+  --tw-border-spacing-y: 0;
+  --tw-translate-x: 0;
+  --tw-translate-y: 0;
+  --tw-rotate: 0;
+  --tw-skew-x: 0;
+  --tw-skew-y: 0;
+  --tw-scale-x: 1;
+  --tw-scale-y: 1;
+  --tw-pan-x:  ;
+  --tw-pan-y:  ;
+  --tw-pinch-zoom:  ;
+  --tw-scroll-snap-strictness: proximity;
+  --tw-gradient-from-position:  ;
+  --tw-gradient-via-position:  ;
+  --tw-gradient-to-position:  ;
+  --tw-ordinal:  ;
+  --tw-slashed-zero:  ;
+  --tw-numeric-figure:  ;
+  --tw-numeric-spacing:  ;
+  --tw-numeric-fraction:  ;
+  --tw-ring-inset:  ;
+  --tw-ring-offset-width: 0px;
+  --tw-ring-offset-color: #fff;
+  --tw-ring-color: rgb(59 130 246 / 0.5);
+  --tw-ring-offset-shadow: 0 0 #0000;
+  --tw-ring-shadow: 0 0 #0000;
+  --tw-shadow: 0 0 #0000;
+  --tw-shadow-colored: 0 0 #0000;
+  --tw-blur:  ;
+  --tw-brightness:  ;
+  --tw-contrast:  ;
+  --tw-grayscale:  ;
+  --tw-hue-rotate:  ;
+  --tw-invert:  ;
+  --tw-saturate:  ;
+  --tw-sepia:  ;
+  --tw-drop-shadow:  ;
+  --tw-backdrop-blur:  ;
+  --tw-backdrop-brightness:  ;
+  --tw-backdrop-contrast:  ;
+  --tw-backdrop-grayscale:  ;
+  --tw-backdrop-hue-rotate:  ;
+  --tw-backdrop-invert:  ;
+  --tw-backdrop-opacity:  ;
+  --tw-backdrop-saturate:  ;
+  --tw-backdrop-sepia:  ;
+}
+.container {
+  width: 100%;
+}
+@media (min-width: 640px) {
+  .container {
+    max-width: 640px;
+  }
+}
+@media (min-width: 768px) {
+  .container {
+    max-width: 768px;
+  }
+}
+@media (min-width: 1024px) {
+  .container {
+    max-width: 1024px;
+  }
+}
+@media (min-width: 1280px) {
+  .container {
+    max-width: 1280px;
+  }
+}
+@media (min-width: 1536px) {
+  .container {
+    max-width: 1536px;
+  }
+}
+/* purgecss end ignore */
+
+.visible {
+  visibility: visible !important;
+}
+
+.collapse {
+  visibility: collapse !important;
+}
+
+.fixed {
+  position: fixed !important;
+}
+
+.absolute {
+  position: absolute !important;
+}
+
+.relative {
+  position: relative !important;
+}
+
+.m-auto {
+  margin: auto !important;
+}
+
+.ml-2 {
+  margin-left: 0.5rem !important;
+}
+
+.mr-1 {
+  margin-right: 0.25rem !important;
+}
+
+.mr-2 {
+  margin-right: 0.5rem !important;
+}
+
+.block {
+  display: block !important;
+}
+
+.flex {
+  display: flex !important;
+}
+
+.table {
+  display: table !important;
+}
+
+.grid {
+  display: grid !important;
+}
+
+.contents {
+  display: contents !important;
+}
+
+.list-item {
+  display: list-item !important;
+}
+
+.hidden {
+  display: none !important;
+}
+
+.flex-1 {
+  flex: 1 1 0% !important;
+}
+
+.border-collapse {
+  border-collapse: collapse !important;
+}
+
+.transform {
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) !important;
+}
+
+.cursor-move {
+  cursor: move !important;
+}
+
+.cursor-pointer {
+  cursor: pointer !important;
+}
+
+.resize {
+  resize: both !important;
+}
+
+.items-center {
+  align-items: center !important;
+}
+
+.border {
+  border-width: 1px !important;
+}
+
+.bg-primary {
+  --tw-bg-opacity: 1 !important;
+  background-color: rgb(38 128 235 / var(--tw-bg-opacity)) !important;
+}
+
+.px-2 {
+  padding-left: 0.5rem !important;
+  padding-right: 0.5rem !important;
+}
+
+.py-2 {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+}
+
+.italic {
+  font-style: italic !important;
+}
+
+.text-white {
+  --tw-text-opacity: 1 !important;
+  color: rgb(255 255 255 / var(--tw-text-opacity)) !important;
+}
+
+.underline {
+  text-decoration-line: underline !important;
+}
+
+.shadow {
+  --tw-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1) !important;
+  --tw-shadow-colored: 0 1px 3px 0 var(--tw-shadow-color), 0 1px 2px -1px var(--tw-shadow-color) !important;
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow) !important;
+}
+
+.outline {
+  outline-style: solid !important;
+}
+
+.filter {
+  filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow) !important;
+}
+
+.transition {
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter !important;
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter !important;
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter !important;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1) !important;
+  transition-duration: 150ms !important;
+}
+
+.wrapper {
+  flex-grow: 1;
+  /* height: 100%; */
+  height: 90vh;
+}
+
+.react-flow__handle {
+  border-radius: 0;
+  background-color: '#2d0a5824';
+}
+
+.react-flow__node-CNode.selectable.selected, .react-flow__node-CNode.selectable:focus, .react-flow__node-CNode.selectable:focus-visible, .react-flow__node-input.selectable.selected, .react-flow__node-input.selectable:focus, .react-flow__node-input.selectable:focus-visible, .react-flow__node-output.selectable.selected, .react-flow__node-output.selectable:focus, .react-flow__node-output.selectable:focus-visible, .react-flow__node-group.selectable.selected, .react-flow__node-group.selectable:focus, .react-flow__node-group.selectable:focus-visible {
+    box-shadow: 0 0 0 0.5px #1a192b;
+    border-radius: 2px;
+}
+
+.react-flow__edge.selected .react-flow__edge-path, .react-flow__edge:focus .react-flow__edge-path, .react-flow__edge:focus-visible .react-flow__edge-path {
+    stroke-width: 2;
+}
+
+.rotate90 {
+  transform: rotate(90deg);
+}
