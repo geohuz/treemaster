@@ -6,9 +6,6 @@ TreeMaster is an Electron App written in React for managing tree like data struc
 
 <img width="1069" alt="Screenshot 2023-07-22 at 10 08 59 12 58 11" src="https://github.com/user-attachments/assets/24e73965-3dff-4763-948f-5b39ff18f9ad">
 
-
-<img width="203" alt="Screenshot 2023-07-22 at 14 47 17 12 58 11" src="https://github.com/user-attachments/assets/b81b8593-dfa7-4bd3-a9d4-67b3b229c4b9">
-
 <img width="953" alt="Screenshot 2023-07-22 at 12 44 53 12 58 11" src="https://github.com/user-attachments/assets/aae3274d-fb94-4ae8-882d-8c0151f5b9e9">
 
 ## Recommended IDE Setup
