@@ -1,6 +1,6 @@
-# treeorg
+# TreeMaster
 
-An Electron application with React
+TreeMaster is a Electron App written in React for managing tree like structure's in a interactive way, it also supports data export/import. It combines ideas of reactflow (https://reactflow.dev/) and craft.js (https://craft.js.org/) to create a highly interactive tree map. It uses elk.js (https://github.com/kieler/elkjs) as the underneath layout engine.
 
 ## Recommended IDE Setup
 
