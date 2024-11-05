@@ -8,6 +8,9 @@ TreeMaster is an Electron App written in React for managing tree like data struc
 
 <img width="953" alt="Screenshot 2023-07-22 at 12 44 53 12 58 11" src="https://github.com/user-attachments/assets/aae3274d-fb94-4ae8-882d-8c0151f5b9e9">
 
+<img width="833" alt="Screenshot 2023-04-25 at 14 39 50" src="https://github.com/user-attachments/assets/ef9ee6c3-e080-4b4b-a702-189465dba257">
+
+
 ## Recommended IDE Setup
 
 - [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
